@@ -8,3 +8,12 @@
 
 **Link(s) to work**
 1. N/A
+
+### Day 2: May 4th, Wednesday
+
+**Today's Progress**: Finished Python 3: String Module
+
+**Thoughts** Going to attempt to finish Python 3 before moving to TOP or FCC.
+
+**Link(s) to work**
+1. N/A
