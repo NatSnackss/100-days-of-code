@@ -17,3 +17,12 @@
 
 **Link(s) to work**
 1. N/A
+
+### Day 3: May 5th, Thursday
+
+**Today's Progress**: Started Python 3: String Method Module
+
+**Thoughts** Late day in office today. Only did a bit of the lesson today, but that's okay. I just glad I still tried today. Going to call it a night so I can get enough sleep to go at it in the morning.
+
+**Link(s) to work**
+1. N/A
